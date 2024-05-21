@@ -1,4 +1,4 @@
-package stream;
+package stream.task1;
 
 import java.util.List;
 import java.util.Map;

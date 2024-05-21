@@ -1,4 +1,4 @@
-package stream;
+package stream.task1;
 
 public class Order {
     private String product;
